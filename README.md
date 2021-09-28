@@ -1,4 +1,5 @@
-# prog
+# Программирование
+### Терентьева Анастасия Максимовна
 
 <a href="https://github.com/t-anastasia/prog/blob/main/sem_3/Tema%201/isr_1_terentjeva.py">иср 1</a> <br>
 <a href="https://github.com/t-anastasia/prog/blob/main/sem_3/Tema%201/isr_2_terentjeva.py">иср 2</a> <br>
